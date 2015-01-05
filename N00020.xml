@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000045_0000_0F9F186E6B9B3928"/>
-            <pb facs="tcp:000045_0001_0F9F1859C7090A68"/>
+            <pb facs="unknown:000045_0000_0F9F186E6B9B3928"/>
+            <pb facs="unknown:000045_0001_0F9F1859C7090A68"/>
             <p>THE WATERING OF the OLIVE PLANT IN CHRISTS GARDEN.</p>
             <p>OR A SHORT CATECHISM For the first Entrance of our Chelmesford Children: Enlarged by A three-fold Appendix</p>
             <p>By <hi>JOHN FISK</hi> Pastour of the Church of Christ at Chelmesford in <hi>New-England.</hi>
@@ -130,7 +130,7 @@
             <p>Printed by <hi>Samuel Green</hi> at CAMBRIDG in <hi>New-England.</hi> 1657.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:000045_0002_0F9F185A865CD090"/>
+            <pb facs="unknown:000045_0002_0F9F185A865CD090"/>
             <head>To the Church &amp; Congregation at Chel<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s<g ref="char:EOLhyphen"/>ford, Grace &amp; Peace, through Jesus Christ.</head>
@@ -143,7 +143,7 @@
                </gap>eble apprehensions in a more private manner amongst our selves. But God hath moved your minds, first to see, and seeing to cause, as it must be as it is. I shall add only a word or two touching use; <hi>1.</hi> The Scripture quotations in the margent, are so severed by those distinct marks as it is not hard to discern to which answer they per<g ref="char:EOLhyphen"/>tayn <hi>2.</hi> They are orderly set down (for the ge<g ref="char:EOLhyphen"/>nerall) as they relate to the several sentences or <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb facs="tcp:000045_0003_0F9F185B5503F970"/>
+               <pb facs="unknown:000045_0003_0F9F185B5503F970"/>
 in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpose, it is <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -173,7 +173,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
       </front>
       <body>
          <div type="catechism">
-            <pb n="5" facs="tcp:000045_0004_0F9F185C1A775078"/>
+            <pb n="5" facs="unknown:000045_0004_0F9F185C1A775078"/>
             <head>THE OLIVE-PLANT WATERED.<note place="margin">An Intro<g ref="char:EOLhyphen"/>duction.</note>
             </head>
             <p>Q. <hi>
@@ -206,7 +206,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
             <p>Quest. <hi>Which is his Law?</hi>
             </p>
             <p>
-               <pb n="6" facs="tcp:000045_0005_0F9F185CD465BDA0"/>
+               <pb n="6" facs="unknown:000045_0005_0F9F185CD465BDA0"/>
                <hi>Answ.</hi> It is breifly <note place="margin">Deut: 4.13. Mat: 22.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>0</note> contained in the Ten Commandements.</p>
@@ -250,7 +250,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
             <p>
                <hi>A</hi> In respect of <note n="n" place="margin">Rom: 3 23. Rom: 5.12.</note> Sin, and pun<g ref="char:EOLhyphen"/>ishment.</p>
             <p>
-               <pb n="7" facs="tcp:000045_0006_0F9F185D8A7AB188"/>Quest. <hi>How in respect of Sin?</hi>
+               <pb n="7" facs="unknown:000045_0006_0F9F185D8A7AB188"/>Quest. <hi>How in respect of Sin?</hi>
             </p>
             <p>
                <hi>Answ</hi> In that I am by <note n="o" place="margin">2 Cor: 5.14. Eph. 2.1, 5 Jude 12.</note> nature dead in Sin.</p>
@@ -303,7 +303,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
             <p>
                <hi>A.</hi> Not only <note n="y" place="margin">Rom 6.23. &amp; 5.12 &amp; 7 10. Mark 3.22. Jude 7</note> temporal, but eternal</p>
             <p>
-               <pb n="8" facs="tcp:000045_0007_0F9F185E4B2725F8"/>Q. <hi>Is it enough to know this?</hi>
+               <pb n="8" facs="unknown:000045_0007_0F9F185E4B2725F8"/>Q. <hi>Is it enough to know this?</hi>
             </p>
             <p>
                <hi>A.</hi> No; <note n="a" place="margin">Rev: 3.<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -319,7 +319,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
                <hi>A.</hi> 1. To <note n="b" place="margin">Dan: 4.27. Psal. 51.17.</note> break me off from my Sin.</p>
             <p n="2">2. To <note n="c" place="margin">Mat: 16:24 Mat: 13.46</note> drive me out of my self.</p>
             <p n="3">3. To [<hi>d</hi>] make me see my need of a Saviour. <hi>Acts</hi> 9.6. <hi>Mat:</hi> 9.12.</p>
-            <milestone type="tcpmilestone" unit="part" n="2"/>
+            <milestone type="tcpmilestone" n="2" unit="part"/>
             <p>Q. <hi>HOw must thou come to be saved?</hi>
             </p>
             <p>
@@ -348,7 +348,7 @@ in the answers. <hi>3.</hi> Where more then one, are mentioned to the same purpo
                   </gap>. 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.</note> Obedience &amp; suffer<g ref="char:EOLhyphen"/>ings
-<pb n="9" facs="tcp:000045_0008_0F9F185F10BA12F0"/>
+<pb n="9" facs="unknown:000045_0008_0F9F185F10BA12F0"/>
 he hath satisfied Divine Iustice, and purchased for us Reconciliation &amp; Eternal Life.<note place="margin">Phil. 2.8. Ro<g ref="char:cmbAbbrStroke">̄</g>: 3.25, 26. Heb: 9.12<g ref="char:punc">▪</g> 15</note>
             </p>
             <p>Quest <hi>
@@ -387,7 +387,7 @@ he hath satisfied Divine Iustice, and purchased for us Reconciliation &amp; Eter
             </p>
             <p>
                <hi>A.</hi> To <note n="s" place="margin">Rom: 4.5, 7</note> be pardoned our Sins;
-<pb n="10" facs="tcp:000045_0009_0F9F185FCF823700"/>
+<pb n="10" facs="unknown:000045_0009_0F9F185FCF823700"/>
 and accepted of God, as Righteous, in his Christ unto Life.<note place="margin">2 Cor 5.19, 20. Rom. 5.18</note>
             </p>
             <p>Q. <hi>What is it to be Sanctified?</hi>
@@ -438,7 +438,7 @@ and accepted of God, as Righteous, in his Christ unto Life.<note place="margin">
                   </gap>
                </note> Confessions only but our Vows also, are to be made to God in Prayer, and either of them are
 <pb n="11"
-                   facs="tcp:000045_0010_0F9F1861106ADD98"
+                   facs="unknown:000045_0010_0F9F1861106ADD98"
                    rendition="simple:additions"/>
 meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note place="margin">Psal: 116.2, 11, 14 <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -470,7 +470,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             <p>Q. <hi>Why do we Baptise Infants, seing the Sacraments do serve to confirme and encrease Grace?</hi>
             </p>
             <p>
-               <pb n="12" facs="tcp:000045_0011_0F9F18614A5EDC88"/>
+               <pb n="12" facs="unknown:000045_0011_0F9F18614A5EDC88"/>
                <hi>Answ.</hi> Because <note n="e" place="margin">Acts 2.39. 2 Cor<g ref="char:punc">▪</g> 7.14.</note> the Children of Confederate Believers are under the pro<g ref="char:EOLhyphen"/>mise of Grace, and within the Covenant</p>
             <p>Quest. <hi>Why do we admit only grown persons to the Lords Supper?</hi>
             </p>
@@ -487,7 +487,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
                      <desc>•</desc>
                   </gap>: 10.28 Hosea 2 23 Eph. 4.16.</note> holy profession which they make, (according to the tenour of this Covenant) of their giving up themselves and their seed to the Lord first, and then to his People; to be his, and theirs in him for the promoting of his Honour &amp; worship, &amp; their mutual edification</p>
             <p>
-               <pb n="13" facs="tcp:000045_0012_0F9F186281DF2810"/>Quest. <hi>Wherin lyeth the holy Com<g ref="char:EOLhyphen"/>munion they be joyntly to exercise towards God in Christ?</hi>
+               <pb n="13" facs="unknown:000045_0012_0F9F186281DF2810"/>Quest. <hi>Wherin lyeth the holy Com<g ref="char:EOLhyphen"/>munion they be joyntly to exercise towards God in Christ?</hi>
             </p>
             <p>
                <hi>Answ.</hi> In <note n="i" place="margin">Heb· 10.22 25. Psal. 73.28 &amp; 27.4 Psa<g ref="char:punc">▪</g> 84.2 &amp;c: John 1.12 Col: 2.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -520,7 +520,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
                </note>
             </p>
             <p>
-               <pb n="14" facs="tcp:000045_0013_0F9F1862C57A2D08"/>Quest. <hi>How may we know, when we do grow in faith &amp; grace?</hi>
+               <pb n="14" facs="unknown:000045_0013_0F9F1862C57A2D08"/>Quest. <hi>How may we know, when we do grow in faith &amp; grace?</hi>
             </p>
             <p>
                <hi>Answ.</hi> 1. If there be a <note n="n" place="margin">1 Pet: 2.2. Luke 17.5. Phil: 3.13. Rev: 21.6</note> lively desire and endeavour after growth</p>
@@ -553,7 +553,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
                      <desc>•</desc>
                   </gap>6 Gal: 2.20</note> Faith which worketh by Love.</p>
             <p>
-               <pb n="15" facs="tcp:000045_0014_0F9F18639C411BC8"/>Q. <hi>What is the Rule of a Godly life?</hi>
+               <pb n="15" facs="unknown:000045_0014_0F9F18639C411BC8"/>Q. <hi>What is the Rule of a Godly life?</hi>
             </p>
             <p>
                <hi>Answ.</hi> The <note n="x" place="margin">2 Tim: 3.17 2 Pet: 1.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -587,7 +587,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             </p>
             <p>A. For their <note n="c" place="margin">Heb: 12.10 Esay 27.9</note> Profit, that they might be partakers of his Holines.</p>
             <p>
-               <pb n="16" facs="tcp:000045_0015_0F9F18644CF3C7D8"/>Quest. <hi>Are not the Saints then per<g ref="char:EOLhyphen"/>fect in this life?</hi>
+               <pb n="16" facs="unknown:000045_0015_0F9F18644CF3C7D8"/>Quest. <hi>Are not the Saints then per<g ref="char:EOLhyphen"/>fect in this life?</hi>
             </p>
             <p>A. There <note n="d" place="margin">Luke 17.10 Phil: 3 12, 13 14 1 Pet: 5.10</note> are none so perfect but they ought to endeavour dayly after more &amp; more Settlement So<g ref="char:EOLhyphen"/>lidity, Stability, and perfection in all Grace and Godlines.</p>
          </div>
@@ -606,7 +606,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             <p>A. 1. The Prayer it self.</p>
             <p n="2">2. The Illustration of it.</p>
             <p>
-               <pb n="17" facs="tcp:000045_0016_0F9F18651500B968"/>By 1. A Preface before it, in the words, (Our Father which art in heaven</p>
+               <pb n="17" facs="unknown:000045_0016_0F9F18651500B968"/>By 1. A Preface before it, in the words, (Our Father which art in heaven</p>
             <p n="2">2. A conclusion afer it, in the word (Amen.</p>
             <p>Quest. <hi>What doth this Order and Method used by our Saviour in this Pray<g ref="char:EOLhyphen"/>er teach us?</hi>
             </p>
@@ -633,7 +633,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
                <hi>A.</hi> We are here taught to look at God in prayer, as 1. A Father, in respect of his <note n="e" place="margin">Esay 63.16. Psal: 103.13</note> tender Mercy and affection.</p>
             <p n="2">
                <pb n="18"
-                   facs="tcp:000045_0017_0F9F1865D10A1F20"
+                   facs="unknown:000045_0017_0F9F1865D10A1F20"
                    rendition="simple:additions"/>2. A heavenly-Father, as who is an <note n="f" place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -662,7 +662,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             <p n="1">1 The things of <note n="k" place="margin">John 7.18.</note> God before our own. 2 Those of <note n="l" place="margin">Phil: 2.20,</note> publick before those of private concernment.</p>
             <p n="3">3 Spiritual <note n="m" place="margin">Mat: 6.33.</note> blessings before temporal.</p>
             <p>
-               <pb n="19" facs="tcp:000045_0018_0F9F186690B2DB48"/>Quest. <hi>How many heads of Petition or Request are there?</hi>
+               <pb n="19" facs="unknown:000045_0018_0F9F186690B2DB48"/>Quest. <hi>How many heads of Petition or Request are there?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Six.</p>
@@ -691,7 +691,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             <p>Q. <hi>What learn we hence in particular concerning the manner of Requesting good things?</hi>
             </p>
             <p>
-               <pb n="20" facs="tcp:000045_0019_0F9F18675A453070"/>
+               <pb n="20" facs="unknown:000045_0019_0F9F18675A453070"/>
                <hi>Answ.</hi> 1. That the matter of these four several heads of petition have such a dependance each upon other, as the second is subordinate to the first; the third to the second, and first; and the fourth to the three foregoing petitions orderly.</p>
             <p n="2">2. That the former afford matter of argument to enforce the following.</p>
             <p n="3">3. That temporal good things are not to be begged,<note place="margin">Mat: 26.39, 42.</note> but conditionally.</p>
@@ -715,7 +715,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
             <p n="2">2. The <note n="q" place="margin">Rom: 15.8, 9. 2 Sam: 7.25, 26 Psal. 79.9. Rom: 11.33, 36. 2 The. 1.9</note> fullfilling of the word of his promise to his Church &amp; cho<g ref="char:EOLhyphen"/>sen ones: and of his threatnings a<g ref="char:EOLhyphen"/>gainst the enemies of his Name. Psal. 75.1. Esa. 63.12, 14. with 64.12.</p>
             <p>
                <pb n="21"
-                   facs="tcp:000045_0020_0F9F1868082582A0"
+                   facs="unknown:000045_0020_0F9F1868082582A0"
                    rendition="simple:additions"/>Quest. <hi>What graces are here to bee sought by prayer?</hi>
             </p>
             <p>
@@ -743,7 +743,7 @@ meerly adjoyned to Petition, or Thanks<g ref="char:EOLhyphen"/>giving.<note plac
                <hi>A.</hi> 1 The <note n="w" place="margin">Psal: 69 24 35. Rev: 11.17, 18. Psal 68.1, 2. Rom: 6.6. 1 John 3.8. Rom: 16.20 2 Tim: 2.26.</note> casting down of Satans kingdom, with all its props, be they persons or things.</p>
             <p n="2">2. The <note n="x" place="margin">Psal 51.18. Mat· 6.33. Esay 62.7. 2 Thes: 3.1.</note> Erecting of his own Kingdom in the world, where it is not, and the maintaining &amp; increa<g ref="char:EOLhyphen"/>sing
 <pb n="22"
-                   facs="tcp:000045_0021_0F9F1868D088C9C0"
+                   facs="unknown:000045_0021_0F9F1868D088C9C0"
                    rendition="simple:additions"/>
 of it where it is: as concerns both the inward grace,<note place="margin">Psal. 122.6. Eph. 6.18, 19 Psal 51.12 Esay 9.7 Col. 2.10. 1 Thes 3.12.</note> and outward admi<g ref="char:EOLhyphen"/>nistrations therof.</p>
             <p n="2">2. The <note n="y" place="margin">Ruth 4.11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -779,7 +779,7 @@ of it where it is: as concerns both the inward grace,<note place="margin">Psal. 
                      <desc>•</desc>
                   </gap>.3. Luke 19.42.</note> Corruption of our na<g ref="char:EOLhyphen"/>ture,
 <pb n="23"
-                   facs="tcp:000045_0022_0F9F186987AE04C8"
+                   facs="unknown:000045_0022_0F9F186987AE04C8"
                    rendition="simple:additions"/>
 and its fruits in the blindness of the mind in it fidelity, pride,<note place="margin">Mat: <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -816,7 +816,7 @@ and its fruits in the blindness of the mind in it fidelity, pride,<note place="m
                   </gap> 63 &amp; 67. Hosea 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>. John 5.30. John 7.17.</note> enclining of our hearts to attend diligently all due means, for the finding out what his will is with us
-<pb n="24" facs="tcp:000045_0023_0F9F186F78567470"/>
+<pb n="24" facs="unknown:000045_0023_0F9F186F78567470"/>
 and for the forming of them into the obedience therof.<note place="margin">Psal: 119.36, 100, &amp; 106. Gal: 4.19. 1 Cor: 9.27.</note>
             </p>
             <p n="3">3 The <note n="k" place="margin">1 King. 13.19, 20, 21. Acts 21.14.</note> subjecting our wills to his will, now once manifested. <hi>Ps.</hi> 40.8 <hi>Mat:</hi> 7.21. <hi>Joh.</hi> 5.30. &amp; 6.38. <hi>Ro</hi> 12.1</p>
@@ -834,7 +834,7 @@ and for the forming of them into the obedience therof.<note place="margin">Psal:
             <p>
                <hi>A.</hi> In doing or attending Gods will Sincerely, speedily, cheerfully, faithful<g ref="char:EOLhyphen"/>ly, constantly and unweariably.</p>
             <p>Q. <hi>What Graces are we taught here
-<pb n="25" facs="tcp:000045_0024_0F9F186F8F840008"/>
+<pb n="25" facs="unknown:000045_0024_0F9F186F8F840008"/>
 especially to seek?</hi>
             </p>
             <p>
@@ -863,7 +863,7 @@ especially to seek?</hi>
                   </gap>
                   <g ref="char:punc">▪</g>
                </note> great hatred and opposition in the world, against the
-<pb n="26" facs="tcp:000045_0025_0F9F1870C46CF710"/>
+<pb n="26" facs="unknown:000045_0025_0F9F1870C46CF710"/>
 Truth,<note place="margin">Acts 28.22</note> Will, and wayes of God.</p>
             <p>Quest. <hi>What are we taught under that Fourth head of Petitions,</hi>
                <note place="margin">PET: 3.</note> 
@@ -881,7 +881,7 @@ Truth,<note place="margin">Acts 28.22</note> Will, and wayes of God.</p>
                <hi>A.</hi> 1. Such creature <note n="u" place="margin">Deut. 28.11 Psal: 37.17 &amp; 24, 25 Psal· 34.9, 10, 19 &amp; 36.6</note> comforts as are needfull for the supportation, pre<g ref="char:EOLhyphen"/>servation or restauration of our out<g ref="char:EOLhyphen"/>ward man.</p>
             <p n="2">2. Such suitable <note n="w" place="margin">Ruth 4.15 Gen 24.63 Pro: 19.14. &amp; 21 10 Psal: 28.3<g ref="char:punc">▪</g> Deut: 28, 3.</note> relations, or such suitablenes in relations, with such abilities, skill, faithfulnes on their parts, as may conduce to our outward comfort.</p>
             <p n="3">3. Such wholesom <note n="x" place="margin">1 Kings 10 8, 9.</note> Laws,
-<pb n="27" facs="tcp:000045_0026_0F9F1871F4968E10"/>
+<pb n="27" facs="unknown:000045_0026_0F9F1871F4968E10"/>
 Government, and order in Civil society as conduce to a quiet &amp; peacable life.<note place="margin">Rom: 13.4. 1 Tim: 2.2</note>
             </p>
             <p n="4">4. The enjoying a <note n="y" place="margin">Exo: 20.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -900,7 +900,7 @@ Government, and order in Civil society as conduce to a quiet &amp; peacable life
                      <desc>•</desc>
                   </gap>, 10 2. Chron: 15.5, 6 Mat: 24.7 Ezek: 5.17</note> and infirmi<g ref="char:EOLhyphen"/>tyes of the body, outward casualtyes, and losses of the creature, unseasonable weather, strife and division amongst neighbours, the oppression, &amp; unrigh<g ref="char:EOLhyphen"/>teousnes of such as we live with, pub<g ref="char:EOLhyphen"/>lick disturbances in the Common-weal, or any of those judgments of the sword pestelence &amp; famine.</p>
             <p>
-               <pb n="28" facs="tcp:000045_0027_0F9F187285C0DAC8"/>Quest. <hi>What special graces are wee here taught to sue for?</hi>
+               <pb n="28" facs="unknown:000045_0027_0F9F187285C0DAC8"/>Quest. <hi>What special graces are wee here taught to sue for?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Confidence <note n="c" place="margin">Psal: 37.5, 7 &amp; ver: 34 Gen: 32.10</note> in God, as relying upon his Fatherly Providence, a hopeful wayting Gods time and season, and humility, as willing to be beholding to him, for the least of his mercyes.</p>
@@ -919,7 +919,7 @@ Government, and order in Civil society as conduce to a quiet &amp; peacable life
             <p>Q. <hi>What evills are we taught here to confess?</hi>
             </p>
             <p>
-               <pb n="29" facs="tcp:000045_0028_0F9F187811448070"/>
+               <pb n="29" facs="unknown:000045_0028_0F9F187811448070"/>
                <hi>Answ.</hi> 1. Carnal <note n="h" place="margin">2 Cor: 1.9 Psal: 146.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> &amp; 20.7 Mark 10.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -941,7 +941,7 @@ Government, and order in Civil society as conduce to a quiet &amp; peacable life
             <p>Quest. <hi>What may we conceive, we are taught hence?</hi>
             </p>
             <p>
-               <pb n="30" facs="tcp:000045_0029_0F9F1879356E8338"/>
+               <pb n="30" facs="unknown:000045_0029_0F9F1879356E8338"/>
                <hi>A.</hi> 1. That <note n="o" place="margin">Rom: 2.23 Esay 59.2 Jer: 5.25</note> the due care of Gods glory, of our communion w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>th God, &amp; even of enjoying the comfort of our dayly bread; doeth enflame in a child of God, a sincere desire of the taking away of sin, as the great lett therof.</p>
@@ -955,7 +955,7 @@ Government, and order in Civil society as conduce to a quiet &amp; peacable life
                <hi>A.</hi> 1. The <note n="r" place="margin">Psal: 130.3, 4 &amp; 32.1, 2 Rom: 4.6 Psal: 51.1, 2 Psal: 25.7</note> not-imputing to us, our sins: but contrariwise the im<g ref="char:EOLhyphen"/>puting &amp; applying the Righteousnes of Christ to us to our justification.</p>
             <p n="2">2. The <note n="s" place="margin">Psal· 51.7, 12 &amp; 14 Psal: 25.7 Joel 2.14 Rom: 8.15 Col: 2 2 Ephe: 1.7</note> not leaving us under darknes, &amp; doubt in this respect; but the clearing up unto our soules, his acceptance of us in his Christ through the freenes, &amp; riches of his grace.</p>
             <p n="3">3. The <note n="t" place="margin">Psal: 103.8, 12. &amp; 69.16, 17 &amp; 38.1 Heb: 12, 6</note> not deserting of us in time of affliction, or of his frowning
-<pb n="31" facs="tcp:000045_0030_0F9F1879494BB320"/>
+<pb n="31" facs="unknown:000045_0030_0F9F1879494BB320"/>
 dispensations: but the so appearing unto us in the same,<note place="margin">Psal: 13.1 Esay 63.9 Cant: 3.10 E<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ay 38.17 Hos: 14.4, 7</note> (as in all the or<g ref="char:EOLhyphen"/>dinances of his Grace:) as we may perceive his Fatherly-love to us therin</p>
@@ -975,7 +975,7 @@ dispensations: but the so appearing unto us in the same,<note place="margin">Psa
             </p>
             <p>
                <hi>A.</hi> Repentance <note n="z" place="margin">1 Kings 8 46:48</note> and humilia<g ref="char:EOLhyphen"/>tion
-<pb n="32" facs="tcp:000045_0031_0F9F188211745688"/>
+<pb n="32" facs="unknown:000045_0031_0F9F188211745688"/>
 for sin, springing from the true knowledge of our selves,<note place="margin">Rom:: 5.1:</note> &amp; sin; &amp; of Christ, and him crucifyed: and peace, flowing from the application of re<g ref="char:EOLhyphen"/>mission.</p>
             <p>Q. <hi>What other?</hi>
             </p>
@@ -1003,7 +1003,7 @@ for sin, springing from the true knowledge of our selves,<note place="margin">Ro
                <hi>Answ</hi> 1. Gods <note n="d" place="margin">Rom: 1:24 2 Sam: 24:1 2 Chro<g ref="char:cmbAbbrStroke">̄</g>: 15:2 Psal: 27:9 Hosea 5.6</note> anger, in the sad effects thereof, in his leaving or forsaking of us.</p>
             <p n="2">2. The <note n="e" place="margin">Mich: 7:18 19</note> power or strength of
 <pb n="33"
-                   facs="tcp:000045_0032_0F9F188250A1D3E8"
+                   facs="unknown:000045_0032_0F9F188250A1D3E8"
                    rendition="simple:additions"/>
 our own corruptions, and what ever tends to the feeding,<note place="margin">Rom: 13.14 Psal: 19.13. Psal: 63.1 Esay 6.5 Psal: 120.5. Mat: 26.41</note> or exciting of the same. <hi>Psal.</hi> 39.1, 2. <hi>Jam:</hi> 1.14, 15.</p>
             <p n="3">3. The <note n="f" place="margin">2 Pet: 2.9, 10. 1 Tim: 6.9</note> prevailing provocations and flateries (or threats) of the world.</p>
@@ -1031,7 +1031,7 @@ our own corruptions, and what ever tends to the feeding,<note place="margin">Rom
                      <desc>•</desc>
                   </gap>.</note> of all good means for the mortifying of corruption repressing of temptation, strengthning of Faith, and the helping forward our recovery, when fallen: and our stand<g ref="char:EOLhyphen"/>ing, and perseverance, when recovered.</p>
             <p>
-               <pb n="34" facs="tcp:000045_0033_0F9F1883C0161C28"/>Quest. <hi>What else is here sough?</hi>
+               <pb n="34" facs="unknown:000045_0033_0F9F1883C0161C28"/>Quest. <hi>What else is here sough?</hi>
             </p>
             <p>
                <hi>Answer.</hi> The <note n="m" place="margin">1 Joh: 5.4. 1 Cor: 15.57 Rev: 2.7, 17, 26. Rev: 3.5, 12, 21. Rom: 8.37.</note> f<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1061,7 +1061,7 @@ our own corruptions, and what ever tends to the feeding,<note place="margin">Rom
             </p>
             <p>
                <hi>A.</hi> As the <note n="o" place="margin">2 Pet· 2.13 with 19.</note> dallying with any sin
-<pb n="35" facs="tcp:000045_0034_0F9F1883D1FBCA50"/>
+<pb n="35" facs="unknown:000045_0034_0F9F1883D1FBCA50"/>
 gives him boldness; or the suffering of any unmortified lust: So in special,<note place="margin">James 1.14 with Gal. 3.24. James 4.7, 8. 2 Sam 11.1, 2 1 Tim: 5.12, 13. Eccl. 2.1. w<hi rend="sup">t</hi> 1 King: 11.1 4. Psal. 39.1 2.</note> the neglect of Gods Ordinances, idlenes &amp; negligence in our callings the delight<g ref="char:EOLhyphen"/>ing in carnal mirth, and pleasures, vain company, needless solitarynes, and slav<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sh fear &amp; cowardice; with many such like. <hi>Eccl</hi> 4.12. 1 <hi>Pet:</hi> 5.8, 9.</p>
@@ -1075,7 +1075,7 @@ gives him boldness; or the suffering of any unmortified lust: So in special,<not
             <p>
                <hi>Answ.</hi> 1. Because, Thanks-giving being a part of prayer, must have some place, in this so perfect a Pattern.</p>
             <p n="2">2. Because, in other platforms in<g ref="char:EOLhyphen"/>dited
-<pb n="36" facs="tcp:000045_0035_0F9F18B584B788E8"/>
+<pb n="36" facs="unknown:000045_0035_0F9F18B584B788E8"/>
 by the Spirit of God, we find <note n="q" place="margin">Psal: 54 56 57<g ref="char:punc">▪</g> 59 &amp; 61</note> thanks-giving (sometimes) to close the same. 3. Because, the <note n="r" place="margin">Phil: 4.6 Col: 4 2</note> express Rule requires the joyning thanksgiving with petition.</p>
             <p n="4">
                <note n="s" place="margin">Rev· <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1094,7 +1094,7 @@ by the Spirit of God, we find <note n="q" place="margin">Psal: 54 56 57<g ref="c
                <hi>A.</hi> It seemeth to denote this reason why we should depend upon God in prayer, for all and every, the severall good things before specified: Namely because, that of God doth appear in each of them (enjoyed) as which ought to be, by the enjoyer, acknowledged to his own prayse.</p>
             <p>
                <pb n="37"
-                   facs="tcp:000045_0036_0F9F18B60632FD88"
+                   facs="unknown:000045_0036_0F9F18B60632FD88"
                    rendition="simple:additions"/>Quest. <hi>Where have you any instances of any part of the matter; under the first head of petitions, acknowledged by way of thankfullnes?</hi>
             </p>
             <p>
@@ -1124,7 +1124,7 @@ by the Spirit of God, we find <note n="q" place="margin">Psal: 54 56 57<g ref="c
             <p>Q. <hi>VVhere can you direct me to any instance, to the same effect, belonging to the sixt &amp; last head of petitions?</hi>
             </p>
             <p>
-               <pb n="38" facs="tcp:000045_0037_0F9F18B6C8488B60"/>
+               <pb n="38" facs="unknown:000045_0037_0F9F18B6C8488B60"/>
                <hi>Answ.</hi> In Psal: 34.19, 20. Psal: 33.18 20. Psal: 30.11. 2 Tim: 4.17, 18.<note place="margin">PET: 6.</note>
             </p>
             <p>Quest. <hi>Is it not sufficient unto true thankfullnes, barely to mention before God such of these good things, as we profess our selves thankfull for?</hi>
@@ -1142,7 +1142,7 @@ by the Spirit of God, we find <note n="q" place="margin">Psal: 54 56 57<g ref="c
             </p>
             <p>
                <pb n="39"
-                   facs="tcp:000045_0038_0F9F18B78A6B09B8"
+                   facs="unknown:000045_0038_0F9F18B78A6B09B8"
                    rendition="simple:additions"/>
                <hi>Answ.</hi> The fullnes of the Lords right, and Soveraignty over us,<note place="margin">Psal: 95.3.7</note> now in<g ref="char:EOLhyphen"/>terested in such a good thing,<note place="margin">Psal: 115.1.2 3.</note> or posses<g ref="char:EOLhyphen"/>sed of it. The subjection of all such instruments to him,<note place="margin">Psal: 114.3, 8</note> as would have withstood it,<note place="margin">Psal: 148. tot</note> and dependance of ought what ever concurred instrumentally to the effecting of it, upon Him:<note place="margin">Psal: 93. tot:</note> And Lastly, but not leastly, the Kingly Me<g ref="char:EOLhyphen"/>diatourship of Christ, in the conveyance of this grace of the Covenant unto us.</p>
             <p>Quest. <hi>What are we taught in those words, (and the Power?)</hi>
@@ -1159,7 +1159,7 @@ by the Spirit of God, we find <note n="q" place="margin">Psal: 54 56 57<g ref="c
                   <desc>•</desc>
                </gap>by we enjoy the bles<g ref="char:EOLhyphen"/>sing
 <pb n="40"
-                   facs="tcp:000045_0039_0F9F18B84B72E880"
+                   facs="unknown:000045_0039_0F9F18B84B72E880"
                    rendition="simple:additions"/>
 of it, and are therupon the more fitted and enabled,<note place="margin">Psal: 68.34, 35.</note> to the service of our God.</p>
             <p>Quest. <hi>What learn you from those words [And the Glory:]</hi>
@@ -1178,7 +1178,7 @@ of it, and are therupon the more fitted and enabled,<note place="margin">Psal: 6
             <p>
                <hi>A</hi> It is an expression, wherby wee both profess that we do &amp; will through
 <pb n="41"
-                   facs="tcp:000045_0040_0F9F18B934B32660"
+                   facs="unknown:000045_0040_0F9F18B934B32660"
                    rendition="simple:additions"/>
 Grace look after our prayers: And do testify as the servent desire,<note place="margin">Psal: 85.8. 1 Cor: 14.16 2 Cor: 1.20. 1 Pet: 4.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1198,7 +1198,7 @@ Grace look after our prayers: And do testify as the servent desire,<note place="
             <p n="2">2. To prevent Superstition.</p>
             <p n="3">3. To redress much unpreparation touching them.</p>
             <p>Quest. <hi>Wherin do the two Sacra<g ref="char:EOLhyphen"/>ments of the Gospel; Baptism, and the
-<pb n="42" facs="tcp:000045_0041_0F9F18B9D6AED6C8"/>
+<pb n="42" facs="unknown:000045_0041_0F9F18B9D6AED6C8"/>
 Lords Supper, and those two of the Law <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> &amp; the Passeover ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1224,7 +1224,7 @@ Lords Supper, and those two of the Law <gap reason="illegible" resp="#PDCC" exte
                </gap>me. Baptism once, the Supper oft administred.</p>
             <p n="3">3. In their <note n="f" place="margin">Mat: 3<g ref="char:punc">▪</g> 11. w<hi rend="sup">t</hi> 1 Cor: 11 23.25.</note> Elements, water belongs to Baptism, bread &amp; wine to the Supper.</p>
             <p n="4">4. In their <note n="g" place="margin">Acts 2.38, 39. w<hi rend="sup">t</hi> 1 Cor: 11<g ref="char:punc">▪</g> 28, 29, 31</note> Subject, Baptism includes even Infants, the Supper be<g ref="char:EOLhyphen"/>longs
-<pb n="43" facs="tcp:000045_0042_0F9F18BA88D46040"/>
+<pb n="43" facs="unknown:000045_0042_0F9F18BA88D46040"/>
 to grown persons, in whom is some settlement of judgment, &amp; sound<g ref="char:EOLhyphen"/>nes of affection.</p>
             <p n="5">5. In their <note n="h" place="margin">Gal: 3.27. with Rev: 3, 20.</note> Use, Baptism doth point out a Being in Christ, and in the Covenant: The Supper, a continuance and growth therin.</p>
             <p>Quest. <hi>What considerations doth the outward matter of the Elements offer to us?</hi>
@@ -1245,7 +1245,7 @@ to grown persons, in whom is some settlement of judgment, &amp; sound<g ref="cha
             </p>
             <p>
                <pb n="44"
-                   facs="tcp:000045_0043_0F9F18BB4E5196A0"
+                   facs="unknown:000045_0043_0F9F18BB4E5196A0"
                    rendition="simple:additions"/>
                <hi>Answ.</hi> The Sealing or ratifying the whole Covenant: The pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1272,7 +1272,7 @@ to grown persons, in whom is some settlement of judgment, &amp; sound<g ref="cha
             </p>
             <p>
                <pb n="45"
-                   facs="tcp:000045_0044_0F9F18BC07930A88"
+                   facs="unknown:000045_0044_0F9F18BC07930A88"
                    rendition="simple:additions"/>
                <hi>Answ.</hi> The place of Christs <note n="p" place="margin">2 Cor: 5.20 1 Cor. 4.1.</note> Embassadour, and the Steward of the Mysteries of God.</p>
             <p>Quest. <hi>What be those Sacramentall acts, and what is their use?</hi>
@@ -1293,7 +1293,7 @@ to grown persons, in whom is some settlement of judgment, &amp; sound<g ref="cha
                   </gap>:28 Mat: 19.13. Psal: 51.4. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Sam: 12.16 23.</note> present it to the Lord in this Ordinance of his in due season, in the face of the publike Assembly: And in the due consideration of the
-<pb n="46" facs="tcp:000045_0045_0F9F18BCCEE83538"/>
+<pb n="46" facs="unknown:000045_0045_0F9F18BCCEE83538"/>
 woefull pollution of nature, conveyed by them unto it, to commiserate it <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> their souls,<note place="margin">Exod: 20.6. Gen: 17 7.</note> mourn &amp; sign for it, and to revive their faith in the Covenant, as touching their seed.</p>
@@ -1306,7 +1306,7 @@ woefull pollution of nature, conveyed by them unto it, to commiserate it <gap re
             <p>
                <hi>A.</hi> As each one for his part, to call to mind, the grace of <note n="t" place="margin">1 Pet: 3. Mark 16.16 1 Cor: 15.29 Gal: 3.27. Rom: 6.3. Mat: 28.19</note> Baptism, for<g ref="char:EOLhyphen"/>merly offered to him, to abase himself in the sense of the former breach of his engagement, and Reverently to attend this Ordinance, improving the remem<g ref="char:EOLhyphen"/>brance of his own Baptism to his own spiritual advantage: So all of them joyntly, by humble confession, prayer, and thanks-giving to look up unto
 <pb n="47"
-                   facs="tcp:000045_0046_0F9F18BD8A4E3EA0"
+                   facs="unknown:000045_0046_0F9F18BD8A4E3EA0"
                    rendition="simple:additions"/>
 God for the Infant (or who other) pre<g ref="char:EOLhyphen"/>sented to Baptism.</p>
             <p>Quest. <hi>What is the Ministers duty?</hi>
@@ -1328,7 +1328,7 @@ God for the Infant (or who other) pre<g ref="char:EOLhyphen"/>sented to Baptism.
                      <desc>•</desc>
                   </gap>5</note> Signify, and seal, its visible relation to Christ his body the Church; and unto Christ himself, the head of his Church, by vertue of the Covenant: and consequently its visible interest, in the Priviledges of the Co<g ref="char:EOLhyphen"/>venant,
 <pb n="48"
-                   facs="tcp:000045_0047_0F9F18BE4FB4DFC0"
+                   facs="unknown:000045_0047_0F9F18BE4FB4DFC0"
                    rendition="simple:additions"/>
 &amp; its obligation to the termes and conditions of it.</p>
             <p>
@@ -1361,7 +1361,7 @@ God for the Infant (or who other) pre<g ref="char:EOLhyphen"/>sented to Baptism.
             </p>
             <p>
                <hi>A.</hi> The setting of Christ apart for
-<pb n="49" facs="tcp:000045_0048_0F9F18BF04A37448"/>
+<pb n="49" facs="unknown:000045_0048_0F9F18BF04A37448"/>
 suffering, and death and suffering of Christ accordingly,<note place="margin">Acts 2.23.36 1 Cor. 21.26 John 6, 51</note> and the free com<g ref="char:EOLhyphen"/>munication of the benefits therof to so many as do receive him.</p>
             <p>Quest. <hi>Whence is it, that from Christ is our spiritual support, and strength in grace, as well as our first being in grace?</hi>
             </p>
@@ -1393,7 +1393,7 @@ suffering, and death and suffering of Christ accordingly,<note place="margin">Ac
                   </gap> Esay 25.6<g ref="char:punc">▪</g> 7, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Psal: 118.24<g ref="char:punc">▪</g> Esa. 55.2</note> apprehends &amp; applies Christ, al-along to the soules spiritual nourishment:
-<pb n="50" facs="tcp:000045_0049_0F9F18BFC7237808"/>
+<pb n="50" facs="unknown:000045_0049_0F9F18BFC7237808"/>
 For it consenting to the word of Gods promise &amp; tender,<note place="margin">Tit: 1.15. Rev: 3.16. Jer: 2.13.</note> &amp; submitting in o<g ref="char:EOLhyphen"/>bedience to his command, does lay hold upon &amp; improue Christ, to all needful supplies of Grace, spiritual strength, &amp; life, and gathers out the sweetnes and comfort of all.</p>
             <p>Quest. <hi>What is the end &amp; use of the Supper?</hi>
             </p>
@@ -1408,7 +1408,7 @@ For it consenting to the word of Gods promise &amp; tender,<note place="margin">
             </head>
             <p>
                <pb n="51"
-                   facs="tcp:000045_0050_0F9F18C087251230"
+                   facs="unknown:000045_0050_0F9F18C087251230"
                    rendition="simple:additions"/>
                <hi>
                   <seg rend="decorInit">W</seg>E having (in part) discover<g ref="char:EOLhyphen"/>ed what God will do for us: Now let us hear what Hee requireth of us?</hi>
@@ -1445,7 +1445,7 @@ For it consenting to the word of Gods promise &amp; tender,<note place="margin">
             <p>Quest. <hi>Whereto serves the Preface?</hi>
             </p>
             <p>
-               <pb n="52" facs="tcp:000045_0051_0F9F18C1559A3A48"/>
+               <pb n="52" facs="unknown:000045_0051_0F9F18C1559A3A48"/>
                <hi>Answ.</hi> To acquaint us with a three fold reason enforcing the obedience to this Law, upon the Lords people.</p>
             <p n="1">1. Because, He is <note n="d" place="margin">Esay 49.5, 9 Psal: 45.11.</note> the Lord, having Soveraign Dominion over all.</p>
             <p n="2">2. Because, He is our <note n="e" place="margin">2 Cor: 7.1 2 Pet: 1.4</note> Covenant-God, all the Promises wherof, are so many engagements unto obedience.</p>
@@ -1462,7 +1462,7 @@ For it consenting to the word of Gods promise &amp; tender,<note place="margin">
             <p>
                <hi>A.</hi> To <note n="h" place="margin">Mat: 22.29.</note> Love the Lord thy God with all thy heart &amp;c:</p>
             <p>Quest. <hi>How may the four first Com<g ref="char:EOLhyphen"/>mandements
-<pb n="53" facs="tcp:000045_0052_0F9F18C20A82DF48"/>
+<pb n="53" facs="unknown:000045_0052_0F9F18C20A82DF48"/>
 be distinguished?</hi>
             </p>
             <p>
@@ -1482,7 +1482,7 @@ be distinguished?</hi>
             <p n="1">1. Where any Duty is Commanded the contrary evill is forbidden: and contrarywise.</p>
             <p n="2">2. Under one particular mention<g ref="char:EOLhyphen"/>ed, are conteined all of the same kind.</p>
             <p n="3">3. Under what ever Duty, or Sin
-<pb n="54" facs="tcp:000045_0053_0F9F18C5C0B390C0"/>
+<pb n="54" facs="unknown:000045_0053_0F9F18C5C0B390C0"/>
 expressed, all both meanes, occasions, &amp; signes therof are intended.</p>
             <p n="4">4. Under Man, of whom duty is required, the whole Nature of man, and under one Relation, all sorts of relation, are comprehended.</p>
             <p>
@@ -1509,7 +1509,7 @@ expressed, all both meanes, occasions, &amp; signes therof are intended.</p>
             <p>Q. <hi>What is required, as wherin <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="55" facs="tcp:000045_0054_0F9F18C6BB6202D8"/>
+                  <pb n="55" facs="unknown:000045_0054_0F9F18C6BB6202D8"/>
 exercise these graces?</hi>
             </p>
             <p>
@@ -1533,7 +1533,7 @@ exercise these graces?</hi>
             <p>Q. <hi>Who are they that so eye this Com<g ref="char:EOLunhyphen"/>mandement, as to do therafter?</hi>
             </p>
             <p>
-               <pb n="56" facs="tcp:000045_0055_0F9F18C7E2464EA8"/>
+               <pb n="56" facs="unknown:000045_0055_0F9F18C7E2464EA8"/>
                <hi>Answ.</hi> Such as <note n="u" place="margin">Psal: 119.57. Esay 60.19 2 Cor: 10.17</note> take the Lord, to be their only Portion &amp; Glory.</p>
             <p>Quest. <hi>VVhat is here required, in or<g ref="char:EOLhyphen"/>der to the using such good gifts in the ser<g ref="char:EOLhyphen"/>vice of God, to his honour?</hi>
             </p>
@@ -1557,7 +1557,7 @@ exercise these graces?</hi>
                      <desc>•</desc>
                   </gap>.4 5 6</note> MAKE to thy self, any GRAVEN Image &amp;c:</p>
             <p>
-               <pb n="57" facs="tcp:000045_0056_0F9F18C8D423C6E8"/>Quest. <hi>What are we to take notice of, as contained in this Commandement?</hi>
+               <pb n="57" facs="unknown:000045_0056_0F9F18C8D423C6E8"/>Quest. <hi>What are we to take notice of, as contained in this Commandement?</hi>
             </p>
             <p>
                <hi>A.</hi> 1. What is therin Co<g ref="char:cmbAbbrStroke">̄</g>manded.</p>
@@ -1582,7 +1582,7 @@ exercise these graces?</hi>
             <p>
                <hi>A.</hi> The <note n="b" place="margin">1 Tim: 3.16 John 5.39 &amp; Col: 3.16 Luke 4.21. Acts 2. &amp; 3. &amp; 7 Pro: 22.6. w<hi rend="sup">t</hi> Gal: 6.6.</note> exercise &amp; use of the holy Scriptures, both in publick, and in private; by the instant attendance upon the reading, preaching, or hear<g ref="char:EOLhyphen"/>ing therof, even in season, and out of season.</p>
             <p>
-               <pb n="58" facs="tcp:000045_0057_0F9F18C9855E7748"/>Quest. <hi>VVhat more?</hi>
+               <pb n="58" facs="unknown:000045_0057_0F9F18C9855E7748"/>Quest. <hi>VVhat more?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Meditation <note n="c" place="margin">Psal: 1.2. Mat: 26.30. Col: 3.16 Mat: 3.16 Luke 24.14. 2 Tim: 4.2</note> therupon, singing of Psalmes, and holy confer<g ref="char:EOLhyphen"/>rence, tending to mutual edification.</p>
@@ -1612,7 +1612,7 @@ exercise these graces?</hi>
                   </gap>.9 <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>. 8<g ref="char:punc">▪</g> 9</note> humane inventions &amp;
-<pb n="59" facs="tcp:000045_0058_0F9F18D0321C5A98"/>
+<pb n="59" facs="unknown:000045_0058_0F9F18D0321C5A98"/>
 appointments in Gods Worship: So all profane contempt,<note place="margin">James 4.2. Luke 19.27. Rev: 3.9 Gal: 2.4 Luke 13.34. Zech: 14.16 18.</note> or careless neg<g ref="char:EOLhyphen"/>lect, of any part of Gods outward Worship, appointed by himself.</p>
             <p>Q. <hi>Is there ought else here forbidden</hi>
             </p>
@@ -1637,7 +1637,7 @@ appointments in Gods Worship: So all profane contempt,<note place="margin">James
             </p>
             <p>
                <hi>A.</hi> Thou shalt not take the Name<note place="margin">Exod<g ref="char:punc">▪</g> 20<g ref="char:punc">▪</g> 7.</note>
-               <pb n="60" facs="tcp:000045_0059_0F9F18D1264F2CB8"/>
+               <pb n="60" facs="unknown:000045_0059_0F9F18D1264F2CB8"/>
 of God in VAIN &amp;c:</p>
             <p>Quest. <hi>How many things are observ<g ref="char:EOLhyphen"/>able in this Commandement?</hi>
             </p>
@@ -1673,7 +1673,7 @@ of God in VAIN &amp;c:</p>
             <p>Q. <hi>But after what manner, more particularly?</hi>
             </p>
             <p>
-               <pb n="61" facs="tcp:000045_0060_0F9F18D4D5193EC0"/>
+               <pb n="61" facs="unknown:000045_0060_0F9F18D4D5193EC0"/>
                <hi>Answ.</hi> We ought to <note n="n" place="margin">Job 23.12. Psal. 84.12. Pro: 23.13 Mat: 13.44. Pro: 8.34 1 Pet: 2.2 Psal: 42.2, 4 Psal: 12<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.1. &amp; 69.9 2 Chr. 12.12 1 Cor: 14.20</note> apply our selves to the holy Worship of God, with a holy desire, affection, and pre<g ref="char:EOLhyphen"/>paration, Before; With due Reverence, and Devotion, In; and with a Spiri<g ref="char:EOLhyphen"/>tual savour and use of it, After: All<g ref="char:EOLhyphen"/>wayes observing outward Order, and Decency, in &amp; about the same. <hi>Ec.</hi> 5.1, 2 <hi>Heb:</hi> 12.28. <hi>Lev:</hi> 19.30. <hi>Act.</hi> 10.2. <hi>Psal:</hi> 18.1. <hi>Cant:</hi> 2.3. <hi>Heb<g ref="char:punc">▪</g>
@@ -1698,7 +1698,7 @@ of God in VAIN &amp;c:</p>
                      <desc>•</desc>
                   </gap>
                </note> prize, honour, &amp; love such, to entertain &amp; desire fellowship
-<pb n="62" facs="tcp:000045_0061_0F9F18D587F3BC70"/>
+<pb n="62" facs="unknown:000045_0061_0F9F18D587F3BC70"/>
 with them, imitate their vertues, help bear their burdens,<note place="margin">Psal. 122.6, 9 Pro: 15.12 &amp; 13.20. Acts 9.26 &amp; 21.7 Heb: 6:12 &amp; 13.7 Gal. 6.10.</note> sympathize with them in their conditions, seek their prayers for us, &amp; long after their good all our dayes. <hi>Pro:</hi> 20.4. <hi>Rom,</hi> 12.15. <hi>Gal:</hi> 6.2. 2 <hi>Thes:</hi> 1.11. 1 <hi>Thes:</hi> 5.25.</p>
             <p>Quest. <hi>How are we to Sanctifie the Name of God in his Workes?</hi>
                <note place="margin">5. Works.</note>
@@ -1719,7 +1719,7 @@ with them, imitate their vertues, help bear their burdens,<note place="margin">P
                <note place="margin">2. Smiling.</note>3. In the <note n="t" place="margin">1 Tim: 4.5. Jude ver: 12 Rom: 14.23. Gen: 32.10. 1 Cor: 10.31 Pro: 3.7. Amos 6.6 1 Tim: 6.17 18, 19. Luke 21.34, 36.</note> plentifull Supply of the Creature, to receive it thankfully from God the giver, and to use it in all holy fear, faith, humility, zeal of Gods Glory, and care of others good: with watchfulnes, sobriety, and the minding our latter end. 1 <hi>Pet:</hi> 5.8. <hi>Psal:</hi> 30.6.</p>
             <p n="4">
                <note place="margin">3. of Grace.</note>4. To observe, admire, &amp; magnifie
-<pb n="63" facs="tcp:000045_0062_0F9F18D6C2C33AC8"/>
+<pb n="63" facs="unknown:000045_0062_0F9F18D6C2C33AC8"/>
 the works of his Grace, upon whom-so<g ref="char:EOLhyphen"/>ever: to rejoyce therat,<note place="margin">Rom: 11.33. Ephe: 1.7 2 John 4. 1 Pet: 5.10 Psal: 66.16 2 Pet: 1.8 &amp; 3.18. &amp; Eph: 4.1 Colos: 2.19</note> to seek the per<g ref="char:EOLhyphen"/>fecting therof; and readily to shew forth what God hath done for us that way, to the Glory of God, and the edification of others: and to walk worthy of his Grace, depending upon him for dayly fresh supply.</p>
             <p>Quest. <hi>What are the particular mis<g ref="char:EOLhyphen"/>carriages, tending to the breach of this Commandement?</hi>
             </p>
@@ -1742,7 +1742,7 @@ the works of his Grace, upon whom-so<g ref="char:EOLhyphen"/>ever: to rejoyce th
                <hi>Answ.</hi> 1. The Dutyes enjoyned.</p>
             <p n="2">2. The Reasons pressing to them.</p>
             <p>
-               <pb n="64" facs="tcp:000045_0063_0F9F18D708459978"/>Quest. <hi>What is the general duty?</hi>
+               <pb n="64" facs="unknown:000045_0063_0F9F18D708459978"/>Quest. <hi>What is the general duty?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Solemnly &amp; Religiously to observe, a certain set solemn time, of the Lords own appointment, for the drawing neerer to himself, in all the wayes of his holy Worship.</p>
@@ -1758,7 +1758,7 @@ the works of his Grace, upon whom-so<g ref="char:EOLhyphen"/>ever: to rejoyce th
             </p>
             <p>
                <hi>A.</hi> The day is by <note n="b" place="margin">Psal. 118.24 John 20.19, 26. Act. 2.1. &amp;c:</note> Divine ap<g ref="char:EOLhyphen"/>pointment now changed, from the last
-<pb n="65" facs="tcp:000045_0064_0F9F18D7CDBD7C90"/>
+<pb n="65" facs="unknown:000045_0064_0F9F18D7CDBD7C90"/>
 day of the week to the first, for the memorial of the Lord Christ his Re<g ref="char:EOLhyphen"/>surrection, as upon this Day.<note place="margin">Lev: 23.11, 16. Acts 20.17. 1 Cor: 16 2. Rev: 1.10.</note>
             </p>
             <p>Quest. <hi>What is the Sabbath-duty in particular?</hi>
@@ -1781,7 +1781,7 @@ day of the week to the first, for the memorial of the Lord Christ his Re<g ref="
             </p>
             <p>
                <hi>A.</hi> To pass the time holily, in the holy attendance upon the duties of
-<pb n="66" facs="tcp:000045_0065_0F9F18D887AE2020"/>
+<pb n="66" facs="unknown:000045_0065_0F9F18D887AE2020"/>
 Gods holy Worship.</p>
             <p>Quest. <hi>What are those dutyes of wor<g ref="char:EOLhyphen"/>ship wherin we are to imploy our selves on this day?</hi>
             </p>
@@ -1814,7 +1814,7 @@ Gods holy Worship.</p>
                      <desc>〈◊〉</desc>
                   </gap> 119 147, 148. Psal: 63.1.</note> reading Gods word, &amp; instructing the family there-from, pray<g ref="char:EOLhyphen"/>er, holy meditation of Gods word and works &amp;c:</p>
             <p>
-               <pb n="67" facs="tcp:000045_0066_0F9F18D949CF69E0"/>Quest. <hi>What be they that be to follow?</hi>
+               <pb n="67" facs="unknown:000045_0066_0F9F18D949CF69E0"/>Quest. <hi>What be they that be to follow?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Meditation <note n="h" place="margin">Mal: 2.2 Luke 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1841,7 +1841,7 @@ Gods holy Worship.</p>
                <hi>What is the duty in generall which the second Table enjoynes?</hi>
             </p>
             <p>
-               <pb n="68" facs="tcp:000045_0067_0F9F18DA097DB7D0"/>
+               <pb n="68" facs="unknown:000045_0067_0F9F18DA097DB7D0"/>
                <hi>Answ.</hi> To love our <note n="k" place="margin">Mat: 22.39</note> neighbour as our selves.</p>
             <p>Quest. <hi>Vnto what special heads are the dutyes of Love or Righteousnes which we owe unto our neighbour to be referred according to the order of the six following Commandements belonging unto the second Table?</hi>
             </p>
@@ -1869,7 +1869,7 @@ Gods holy Worship.</p>
                </hi>
             </p>
             <p>
-               <pb n="69" facs="tcp:000045_0068_0F9F18DAD3765878"/>
+               <pb n="69" facs="unknown:000045_0068_0F9F18DAD3765878"/>
                <hi>Answ.</hi> To direct <note n="m" place="margin">Eccl: 10.7 Gen: 2.18 Ec<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>l: 4.9 Psa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1888,7 +1888,7 @@ Gods holy Worship.</p>
             <p>
                <hi>Answ.</hi> To tender, &amp; <note n="o" place="margin">Rom: 12.10 1 Pet: 2.17 1 Sam: 19.4 Mat: 18.15<g ref="char:punc">▪</g> 16. Pro: 22.1.</note> to endea<g ref="char:EOLhyphen"/>vour according to Rule, the uphold<g ref="char:EOLhyphen"/>ing that state of worth, excellency, or reputation of our neighbour, with which God hath invested him in any humane society; and not only to pre<g ref="char:EOLhyphen"/>serve it un-impaired, and unblemished but even to promote the same, so far forth as in us lyeth.</p>
             <p>
-               <pb n="70" facs="tcp:000045_0069_0F9F18DB8A875000"/>Quest. <hi>What is the duty in general, which we are here enjoyned to perform to our Superiours?</hi>
+               <pb n="70" facs="unknown:000045_0069_0F9F18DB8A875000"/>Quest. <hi>What is the duty in general, which we are here enjoyned to perform to our Superiours?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Both <note n="p" place="margin">Lev. 19.3 1 K<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1932,7 +1932,7 @@ Gods holy Worship.</p>
                   </gap> be the dutyes which the wife oweth to her husband?</hi>
             </p>
             <p>
-               <pb n="71" facs="tcp:000045_0070_0F9F18DC48AF5BB0"/>
+               <pb n="71" facs="unknown:000045_0070_0F9F18DC48AF5BB0"/>
                <hi>Answ.</hi> Besides <note n="s" place="margin">Eph: 5.33. 1 Pet: 3.2, 4, 5, 6. 3 Tim: 2.12 Eph: 5.24</note> the common dutyes aforesaid, shee owes him Reve<g ref="char:EOLhyphen"/>rence, subjection &amp; obedie<g ref="char:cmbAbbrStroke">̄</g>ce. <hi>Eph.</hi> 5.24</p>
             <p>Quest. <hi>What be the dutyes of Hon<g ref="char:EOLhyphen"/>our, the Husband owes to his wife?</hi>
             </p>
@@ -1955,7 +1955,7 @@ Gods holy Worship.</p>
                <hi>A.</hi> Carefully <note n="x" place="margin">Psal: 127.4 5. 1 Tim: 5.8. Judg<g ref="char:punc">▪</g> 13.3, 4 M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t: 2.13, 14 Gen: 21.7. &amp; 17, 18</note> to endeavour that they may both live, &amp; live well: and
-<pb n="72" facs="tcp:000045_0071_0F9F18DD09439118"/>
+<pb n="72" facs="unknown:000045_0071_0F9F18DD09439118"/>
 that in order therunto, they may be both well educated by good nursery,<note place="margin">Mat: 19.13, 1 Tim: 5.10. Ephe: 6.4 Pro: 29.15 &amp; 22.6 2 Tim: 1.5 Pro: 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.22. <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1983,7 +1983,7 @@ that in order therunto, they may be both well educated by good nursery,<note pla
                   </gap>4 3. Est: 2.21, 22. 1 Pet: 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>4. Tit: 3.1.</note> Authority do owe them the Honour of Revere<g ref="char:cmbAbbrStroke">̄</g>ce fidelity, subjection &amp; thankfulnes, &amp; prayer for them, &amp; withall such as are concerned in their choise, to nominate and elect such, as be Able men, Fear<g ref="char:EOLhyphen"/>ers of God, men of Truth, and hating
-<pb n="73" facs="tcp:000045_0072_0F9F18DDCE91D008"/>
+<pb n="73" facs="unknown:000045_0072_0F9F18DDCE91D008"/>
 Coveteous<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>es. <hi>Rom:</hi> 13.6. 1 <hi>Pet:</hi> 2.19. <hi>Mat:</hi> 17.22. 1 <hi>Tim:</hi> 2.2. <hi>Psal.</hi> 21.24.<note place="margin">Exod: 18.21</note>
@@ -2004,7 +2004,7 @@ Coveteous<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>
                   <g ref="char:punc">▪</g> 13<g ref="char:punc">▪</g> Mat. 7.24 1 Tim. 5.17 1 Cor: 16.10 &amp; 18. Rom: 16.4 Gal. 6.6</note> receive, esteem &amp; reverence them to hear them gladly, to hold fast their good-doctrine, in faith &amp; obe<g ref="char:EOLhyphen"/>dience; and withall to maintain their estate with honourable Provision, their Credit with due commendation, their Liberty with just defence, and their faithfulnes with meet encouragement.</p>
             <p>
-               <pb n="74" facs="tcp:000045_0073_0F9F18DE999944B8"/>Q. <hi>What is farther required, as due to our Church-Officers?</hi>
+               <pb n="74" facs="unknown:000045_0073_0F9F18DE999944B8"/>Q. <hi>What is farther required, as due to our Church-Officers?</hi>
             </p>
             <p>
                <hi>A.</hi> As to <note n="a" place="margin">Col: 4.17. Phil: 2.9 Rom: 16.2 Heb: 13.17</note> stirr them up (as need is) to fulfill their Ministry: So to refresh and succour them, and to submit to them in all matters pertaining to their Office, according to God.</p>
@@ -2028,7 +2028,7 @@ Coveteous<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>: 6 2, 3 <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>6.11.</note> the Promise of a long
-<pb n="75" facs="tcp:000045_0074_0F9F18DF523A4E38"/>
+<pb n="75" facs="unknown:000045_0074_0F9F18DF523A4E38"/>
 and blessed life, in a land and place of desires, given us of God.<note place="margin">Jer: 29.7.</note>
             </p>
             <p>Quest. <hi>VVhat is the Sixt Command<g ref="char:EOLhyphen"/>ment?</hi>
@@ -2064,7 +2064,7 @@ and blessed life, in a land and place of desires, given us of God.<note place="m
                      <desc>•</desc>
                   </gap>. Jer. 23.14, 27 1 Cor. 8<g ref="char:punc">▪</g> 9 Mat. 23.13</note> leading our selves, or others, into any Sin: the suffering our selves or others, to ly in sin; or the hindering the free passage of the means of Grace, in the peace, pu<g ref="char:EOLhyphen"/>rity, or power of it.</p>
             <p>
-               <pb n="76" facs="tcp:000045_0075_0F9F18E01AF1A4E0"/>Quest. <hi>When may one be said, to bee guilty of self-murther, in respect of his own natural life?</hi>
+               <pb n="76" facs="unknown:000045_0075_0F9F18E01AF1A4E0"/>Quest. <hi>When may one be said, to bee guilty of self-murther, in respect of his own natural life?</hi>
             </p>
             <p>
                <hi>Answ.</hi> Not only when <note n="g" place="margin">2 Sam: 17.13. 1 King. 2 22. Mat: 4.6<g ref="char:punc">▪</g> 7. Eccl: 5<g ref="char:punc">▪</g> 19 Pro: 19.15, Eccl: 4.5. &amp; 3.13. 1 Tim: 5.23. Mat: 9.12</note> he shall either contrive his own death, directly or indirectly, or shall carelessly or des<g ref="char:EOLhyphen"/>perately expose himself unto unnecessa<g ref="char:EOLhyphen"/>ry danger: but also when he shall neg<g ref="char:EOLhyphen"/>lect the due means of life, lively-hood, or health.</p>
@@ -2079,7 +2079,7 @@ and blessed life, in a land and place of desires, given us of God.<note place="m
                      <desc>•</desc>
                   </gap>y: 3.15 Pro<g ref="char:punc">▪</g> 6:13</note> heart against our neighbours life, whereto are referred unjust anger and hatred, as the fountaines, Envy, disdain, contempt, hard-heartednes, feigned freindship, cruelty, and such others of the same nature; with all their outward signes, issuing from any these fountains.</p>
             <p>
-               <pb n="77" facs="tcp:000045_0076_0F9F18E0CF823318"/>Quest. <hi>What is that frame of heart towards others, which this Commande<g ref="char:EOLhyphen"/>ment then requires?</hi>
+               <pb n="77" facs="unknown:000045_0076_0F9F18E0CF823318"/>Quest. <hi>What is that frame of heart towards others, which this Commande<g ref="char:EOLhyphen"/>ment then requires?</hi>
             </p>
             <p>
                <hi>Answ.</hi> A heart inclining <note n="k" place="margin">Col: 3.12 Ephe: 4.32 Mat: 11.29 1 Thes: 4.11</note> to kindnes, meeknes, compassionatnes, &amp; quietnes. 1 <hi>Cor:</hi> 13.5. <hi>Rom:</hi> 12.15.</p>
@@ -2104,7 +2104,7 @@ and blessed life, in a land and place of desires, given us of God.<note place="m
                      <desc>•</desc>
                   </gap>
                </note> according to his necessity, and our calling and ability, to preserve, protect, &amp; pro<g ref="char:EOLhyphen"/>mote
-<pb n="78" facs="tcp:000045_0077_0F9F18E2184691B0"/>
+<pb n="78" facs="unknown:000045_0077_0F9F18E2184691B0"/>
 his natural life, with the comfort therof,<note place="margin">Heb: 13.16. Gen: 29.13 Mat. 25.35.</note> in the actions of Justice, Hu<g ref="char:EOLhyphen"/>manity &amp; Mercy.</p>
             <p>
                <note place="margin">Commande<g ref="char:EOLhyphen"/>ment 7.</note>Quest. <hi>VVhat is the Seaventh Com<g ref="char:EOLhyphen"/>mandement?</hi>
@@ -2132,7 +2132,7 @@ his natural life, with the comfort therof,<note place="margin">Heb: 13.16. Gen: 
                   </gap>. Jer: 3.7 Cor: 6.15</note> the abuse of things be<g ref="char:EOLhyphen"/>longing to the body, or of the body it self, to uncleanes.</p>
             <p>
                <pb n="79"
-                   facs="tcp:000045_0078_0F9F18E250866478"
+                   facs="unknown:000045_0078_0F9F18E250866478"
                    rendition="simple:additions"/>Quest. <hi>Wherein doth such the abuses of the body consist?</hi>
             </p>
             <p>
@@ -2158,7 +2158,7 @@ his natural life, with the comfort therof,<note place="margin">Heb: 13.16. Gen: 
             </p>
             <p>
                <hi>Answ.</hi> In general, <note n="x" place="margin">Gen: 39.9 with 20</note> in being in
-<pb n="80" facs="tcp:000045_0079_0F9F18E31F866770"/>
+<pb n="80" facs="unknown:000045_0079_0F9F18E31F866770"/>
 Gods fear, in delighting our soules in God,<note place="margin">Psal: 119.9 Pro: 2.10, 16 1 Tim: 2.9 Ephes 5.3, 4 Pro: 23.30, 33 1 Tim: 5.13.</note> in his word, in his ordinances, &amp; wayes: In the exercise of modesty, &amp; shamefastnes, of temperance, and sobriety, and of diligence &amp; painful<g ref="char:EOLhyphen"/>nes, in the dutyes of our general and particular calling.</p>
             <p>Quest. <hi>How may this Chasti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2186,7 +2186,7 @@ Gods fear, in delighting our soules in God,<note place="margin">Psal: 119.9 Pro:
             <p>Q. <hi>To what end may this be?</hi>
             </p>
             <p>
-               <pb n="81" facs="tcp:000045_0080_0F9F18E3CB2DFBF8"/>
+               <pb n="81" facs="unknown:000045_0080_0F9F18E3CB2DFBF8"/>
                <hi>Answ.</hi> That each one <note n="a" place="margin">Deut. 28.11 Num: 16.32 Exod: 22.7, 8 Mat: 20.15 Gen: 9.11 Num: 27.4. with 7.11</note> may en<g ref="char:EOLhyphen"/>joy peacefully, and without disturbance his own just Rights &amp; proprieties in re<g ref="char:EOLhyphen"/>spect of any these outward good things</p>
             <p>Quest. <hi>What are those evills, which crosse the Scope of this Commandement, as it provides for the securing our own right</hi>
             </p>
@@ -2200,7 +2200,7 @@ Gods fear, in delighting our soules in God,<note place="margin">Psal: 119.9 Pro:
             </p>
             <p>
                <hi>A.</hi> So many wayes, as <note n="d" place="margin">1 Sam: 18.17, 25.</note> any the distinct Rules respectively referring to
-<pb n="82" facs="tcp:000045_0081_0F9F18E48BFBCB78"/>
+<pb n="82" facs="unknown:000045_0081_0F9F18E48BFBCB78"/>
 the differing contracts of this life, are any way crossed.</p>
             <p>Quest. <hi>How are these Rules squared?</hi>
             </p>
@@ -2220,7 +2220,7 @@ the differing contracts of this life, are any way crossed.</p>
                <hi>A.</hi> When <note n="h" place="margin">Luk. 10, 30 1 Sam: 2.16. Exod: 22.1 Tit: 2.10 Pro: 28.24 Deut: 19.14 Gen: 26.14, 15. Deu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>: 22.1.3 Lev: 6.2, 4 2 Thes: 3.11 Psal: 50:18 Pro: 29.24</note> that which is his, is unjustly taken away, either by force, in an open violent way, as by robbery, or such other like violent practises of mischeif: or else in a secret way; as by pilfering, or any encroaching practise or otherwise by fraud, as by cousonage concealment, gaming, or by any other crafty &amp; unwarrantable artifice, either
-<pb n="83" facs="tcp:000045_0082_0F9F18E54EC5F798"/>
+<pb n="83" facs="unknown:000045_0082_0F9F18E54EC5F798"/>
 for the procuring, or detaining ought from the right owner.</p>
             <p>Quest. <hi>What is the Root of all this manner of evill?</hi>
             </p>
@@ -2246,7 +2246,7 @@ for the procuring, or detaining ought from the right owner.</p>
                <hi>A.</hi> When he shall either <note n="m" place="margin">Pro: 13.17 Rev: 3 17. Psal: 31.22. Pro: 23.14. 2 Sam: 1.16 2 King: 5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Pro: 30.20 Pro: 27.2</note> over value, or under-value himself to him<g ref="char:EOLhyphen"/>self, in his own heart; or shall express the same to others, by speech or gesture
-<pb n="84" facs="tcp:000045_0083_0F9F18E60D847300"/>
+<pb n="84" facs="unknown:000045_0083_0F9F18E60D847300"/>
 in any way of boasting or debasing, ex<g ref="char:EOLhyphen"/>cusing or accusing himself besides Rule.</p>
             <p>Quest. <hi>When may he be said to receive a false Testimony, concerning himself?</hi>
             </p>
@@ -2268,7 +2268,7 @@ in any way of boasting or debasing, ex<g ref="char:EOLhyphen"/>cusing or accusin
                <hi>A.</hi> By <note n="s" place="margin">1 Tim: 5.4 Mat: 11.1. Sam: 1.13. Acts 2.15 Sam: 17.28 <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>: 14.4.</note> evill surmises, rash judg<g ref="char:EOLhyphen"/>ing, disdain, or unjust contempt, and by
-<pb n="85" facs="tcp:000045_0084_0F9F18E6CD8B4900"/>
+<pb n="85" facs="unknown:000045_0084_0F9F18E6CD8B4900"/>
 admiration, conceived in the heart, and uttered in the speech or gesture; <note place="margin">1 Chr: 15.29. Pro: 11.12. Psal: 22.7 Jude 16. 1 Cor: 3.4 Ester 4.14. Gen: 31.8, 9.</note> or by the neglect of appearing in a good cause, or speaking, or acting for it when called to it.</p>
             <p>Quest. <hi>When, or in what case is this Commandement broken in, or by an or<g ref="char:EOLhyphen"/>derly-publick-Civil-Assembly?</hi>
             </p>
@@ -2282,7 +2282,7 @@ admiration, conceived in the heart, and uttered in the speech or gesture; <note 
             <p>
                <hi>A.</hi> When <note n="w" place="margin">Jude</note> an unjust Law or sen<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>ce shall, or a just shall not be executed</p>
             <p>
-               <pb n="86" facs="tcp:000045_0085_0F9F18E937FE1F28"/>Quest. <hi>Is there any danger of the beeach of this Commandement, by false<g ref="char:EOLhyphen"/>witnes bearing publickly, in our Church-assemblyes?</hi>
+               <pb n="86" facs="unknown:000045_0085_0F9F18E937FE1F28"/>Quest. <hi>Is there any danger of the beeach of this Commandement, by false<g ref="char:EOLhyphen"/>witnes bearing publickly, in our Church-assemblyes?</hi>
             </p>
             <p>
                <note n="x" place="margin">Rev: 2.9. 1 Pet: 5.3. 1 Cor: 5.2, 6. Gal: 3.1, 3, 4 3 Joh: 9, 10. Acts 5.3, 8.</note>
@@ -2299,7 +2299,7 @@ admiration, conceived in the heart, and uttered in the speech or gesture; <note 
                      <desc>••</desc>
                   </gap>al: 15.3.</note> receiving such a false re<g ref="char:EOLhyphen"/>port.</p>
             <p n="3">
-               <pb n="87" facs="tcp:000045_0086_0F9F18EA5B098628"/>3. By <note n="b" place="margin">Ephe: 4.15. Psal: 6.5. 1 Sam: 19.13</note> asserting bright either expresly, or by way of equivocation; contrary to the present trueth of the thing. <hi>John</hi> 8.44. <hi>Mat:</hi> 26.61.</p>
+               <pb n="87" facs="unknown:000045_0086_0F9F18EA5B098628"/>3. By <note n="b" place="margin">Ephe: 4.15. Psal: 6.5. 1 Sam: 19.13</note> asserting bright either expresly, or by way of equivocation; contrary to the present trueth of the thing. <hi>John</hi> 8.44. <hi>Mat:</hi> 26.61.</p>
             <p n="4">4. By <note n="c" place="margin">Pro: 25.14. 2 King: 18.21.</note> promising ought to be done afterward, which either is not intended at the time, or is out of the power of the promiser. As appears in unfaithfull, deceitfull, or unadvised pro<g ref="char:EOLhyphen"/>mises.</p>
             <p>Q. <hi>What is then required of us here?</hi>
             </p>
@@ -2327,7 +2327,7 @@ admiration, conceived in the heart, and uttered in the speech or gesture; <note 
                      <desc>〈…〉</desc>
                   </gap> 15</note> barrenes, or emptines of the heart &amp; mind, of any such motions, thoughts, or desires, as tend to our own, or our Neighbours
 <pb n="88"
-                   facs="tcp:000045_0087_0F9F18ECD87B70D8"
+                   facs="unknown:000045_0087_0F9F18ECD87B70D8"
                    rendition="simple:additions"/>
 good: as the presence of inordinate motions,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
